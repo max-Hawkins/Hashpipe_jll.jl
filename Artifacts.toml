@@ -1,0 +1,9 @@
+[[Hashpipe]]
+arch = "x86_64"
+git-tree-sha1 = "bb31e516ff72b05b3a1af83d3298ca954b4ad60d"
+libc = "glibc"
+os = "linux"
+
+    [[Hashpipe.download]]
+    sha256 = "6fd4d81f4a657644a6cc529b1d3adbcb75bea220bb68a397641bf1fd8c95d170"
+    url = "https://github.com/max-Hawkins/Hashpipe_jll.jl/releases/download/Hashpipe-v0.0.1+0/Hashpipe.v0.0.1.x86_64-linux-gnu.tar.gz"
