@@ -1,6 +1,6 @@
 name = "Hashpipe_jll"
 uuid = "a3e50fc0-e135-5cb8-92f4-a3765d91b533"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
